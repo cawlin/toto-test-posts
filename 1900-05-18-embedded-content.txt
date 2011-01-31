@@ -1,0 +1,33 @@
+title: Embedded Content
+author: Oscar Diggs
+date: 1900/05/18
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin semper elementum turpis sed auctor. Curabitur quis quam et augue sollicitudin vestibulum sed in leo. Cras sapien turpis, dapibus sed tincidunt nec, faucibus sed metus.
+
+**Gist**
+
+<script src="https://gist.github.com/803627.js"> </script>
+
+- - -
+
+**Youtube**
+
+<iframe title="YouTube video player" class="youtube-player" type="text/html" width="480" height="390" src="http://www.youtube.com/embed/KS-K02xqV6w" frameborder="0" allowFullScreen></iframe>
+
+- - -
+
+**Vimeo**
+
+<iframe src="http://player.vimeo.com/video/18934246" width="400" height="225" frameborder="0"></iframe><p><a href="http://vimeo.com/18934246">Braids - Plath Heart</a> from <a href="http://vimeo.com/laserpilot">blair neal</a> on <a href="http://vimeo.com">Vimeo</a>.</p>
+
+- - -
+
+**Soundcloud**
+
+<object height="81" width="100%"> <param name="movie" value="http://player.soundcloud.com/player.swf?url=http%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F9186252"></param> <param name="allowscriptaccess" value="always"></param> <embed allowscriptaccess="always" height="81" src="http://player.soundcloud.com/player.swf?url=http%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F9186252" type="application/x-shockwave-flash" width="100%"></embed> </object>  <span><a href="http://soundcloud.com/birdfeeder/jurassic-park-theme-1000-slower">Jurassic Park Theme (1000% Slower)</a> by <a href="http://soundcloud.com/birdfeeder">birdfeeder</a></span>
+
+- - -
+
+**Flickr**
+
+<a href="http://www.flickr.com/photos/uppercaseyyc/2197967051/" title="Empress by uppercaseyyc, on Flickr"><img src="http://farm3.static.flickr.com/2326/2197967051_7f9c1c1f36.jpg" width="500" height="500" alt="Empress" /></a>

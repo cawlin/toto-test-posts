@@ -1,0 +1,199 @@
+title: Common Markup
+author: Oscar Diggs
+date: 1900/05/19
+
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin semper elementum turpis sed auctor. Curabitur quis quam et augue sollicitudin vestibulum sed in leo. Cras sapien turpis, dapibus sed tincidunt nec, faucibus sed metus. 
+
+Phasellus interdum blandit arcu in posuere. Aliquam non est elit, non egestas dolor. Etiam eu sem dui, quis ultrices ante.
+
+- - -
+
+# H1 Integer laoreet, est ac hendrerit aliquam 
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin semper elementum turpis sed auctor. Curabitur quis quam et augue sollicitudin vestibulum sed in leo.
+
+- - -
+
+## H2 Eros leo tempus quam, at commodo nisi ligula et nisi
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin semper elementum turpis sed auctor. Curabitur quis quam et augue sollicitudin vestibulum sed in leo.
+
+- - -
+
+### H3 Maecenas dolor orci varius vitae porta eget, consectetur in augue
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin semper elementum turpis sed auctor. Curabitur quis quam et augue sollicitudin vestibulum sed in leo.
+
+- - -
+
+#### H4 Fusce tristique dapibus nulla vitae euismod magna scelerisque eget
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin semper elementum turpis sed auctor. Curabitur quis quam et augue sollicitudin vestibulum sed in leo.
+
+- - -
+
+##### H5 Ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia 
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin semper elementum turpis sed auctor. Curabitur quis quam et augue sollicitudin vestibulum sed in leo.
+
+- - -
+
+###### H6 Praesent sem sapien, pharetra sit amet blandit sollicitudin
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin semper elementum turpis sed auctor. Curabitur quis quam et augue sollicitudin vestibulum sed in leo.
+
+- - -
+
+**Blockquote:**
+
+> ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Praesent sem sapien, pharetra sit amet blandit sollicitudin, pretium ac neque. Aenean lacinia, ipsum et adipiscing ornare, arcu diam bibendum quam, sit amet scelerisque tellus mi sit amet lorem. 
+
+- - -
+
+**Nested blockquotes:**
+
+> ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Praesent sem sapien, 
+> pharetra sit amet blandit sollicitudin, pretium ac neque. Aenean lacinia, ipsum et adipiscing ornare
+>
+> > Aenean gravida sodales porttitor. Aenean rutrum tincidunt lectus, et molestie erat convallis id. Aliquam vel 
+>
+> condimentum ipsum ante vel nibh. 	Pellentesque vulputate sodales enim, a blandit velit
+> arcu diam bibendum quam, sit amet scelerisque tellus mi sit amet lorem.
+
+- - -
+
+**Blockquote with elements:**
+ 
+> #### condimentum ipsum ante vel nibh
+>
+> Aenean gravida sodales porttitor. Aenean rutrum tincidunt lectus, et molestie erat convallis id
+>
+> * Nunc dictum nisl eget turpis malesuada laoreet
+> * Fusce tristique diam facilisis elit imperdiet
+> * nec porta justo pellentesque  
+
+- - -
+
+**Unordered list**
+
+* Nunc dictum nisl eget turpis malesuada laoreet
+* Fusce tristique diam facilisis elit imperdiet
+* nec porta justo pellentesque
+* Nulla ut ipsum eget eros condimentum vestibulum
+
+- - -
+
+**Nested Unordered list**
+
+* Nunc dictum nisl eget turpis malesuada laoreet
+* Fusce tristique diam facilisis elit imperdiet
+* nec porta justo pellentesque
+	* Nunc dictum nisl eget turpis malesuada laoreet
+	* Fusce tristique diam facilisis elit imperdiet
+	* nec porta justo pellentesque
+	* Nulla ut ipsum eget eros condimentum vestibulum
+* Nulla ut ipsum eget eros condimentum vestibulum
+* Nulla ut ipsum eget eros condimentum vestibulum
+
+- - -
+
+**Unordered list with paragraphs**
+
+*	Nulla tempor, velit ac faucibus facilisis, augue massa blandit justo, ac sodales lorem nunc vitae leo.
+	Sed eget blandit odio. Etiam eu elit nulla. Integer eget lacus tellus. Vestibulum ante ipsum primis in 
+	
+	quis turpis. Cras non erat est. Pellentesque condimentum mattis diam, quis ornare ante fringilla vitae. Nunc 
+	aliquam faucibus vehicula. Integer lacinia euismod ipsum, at fermentum lorem condimentum sit amet. Sed iaculis congue dignissim.
+	
+*	Duis lacus lacus, pulvinar in faucibus et, tempus in nisl. Vivamus ut volutpat risus. 
+	Duis consequat tristique risus id auctor. Sed hendrerit tincidunt nulla, dignissim congue massa vulputate eu.
+	
+	Morbi luctus facilisis congue. Aliquam erat volutpat. Class aptent taciti sociosqu ad litora torquent per conubia 
+	nostra, per inceptos himenaeos. Etiam tincidunt fermentum enim id posuere. Quisque varius ullamcorper quam. Proin 
+	
+* 	Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Sed at augue neque, vitae eleifend nisi.
+
+- - -
+
+**Ordered list**
+
+1. Nunc dictum nisl eget turpis malesuada laoreet
+2. Fusce tristique diam facilisis elit imperdiet
+3. nec porta justo pellentesque
+4. Nulla ut ipsum eget eros condimentum vestibulum
+
+- - -
+
+**Nested Ordered list**
+
+1. Nunc dictum nisl eget turpis malesuada laoreet
+2. Fusce tristique diam facilisis elit imperdiet
+3. nec porta justo pellentesque
+	1. Nunc dictum nisl eget turpis malesuada laoreet
+	2. Fusce tristique diam facilisis elit imperdiet
+	3. nec porta justo pellentesque
+	4. Nulla ut ipsum eget eros condimentum vestibulum
+4. Nulla ut ipsum eget eros condimentum vestibulum
+5. Nulla ut ipsum eget eros condimentum vestibulum
+
+- - -
+
+**Ordered list with paragraphs**
+
+1.	Nulla tempor, velit ac faucibus facilisis, augue massa blandit justo, ac sodales lorem nunc vitae leo.
+	Sed eget blandit odio. Etiam eu elit nulla. Integer eget lacus tellus. Vestibulum ante ipsum primis in 
+	
+	quis turpis. Cras non erat est. Pellentesque condimentum mattis diam, quis ornare ante fringilla vitae. Nunc 
+	aliquam faucibus vehicula. Integer lacinia euismod ipsum, at fermentum lorem condimentum sit amet. Sed iaculis congue dignissim.
+	
+2.	Duis lacus lacus, pulvinar in faucibus et, tempus in nisl. Vivamus ut volutpat risus. 
+	Duis consequat tristique risus id auctor. Sed hendrerit tincidunt nulla, dignissim congue massa vulputate eu.
+	
+	Morbi luctus facilisis congue. Aliquam erat volutpat. Class aptent taciti sociosqu ad litora torquent per conubia 
+	nostra, per inceptos himenaeos. Etiam tincidunt fermentum enim id posuere. Quisque varius ullamcorper quam. Proin 
+	
+3. 	Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Sed at augue neque, vitae eleifend nisi.
+
+- - -
+
+**Code block**
+
+	<!doctype html>
+	<html>
+	  <head>
+	    <link rel="stylesheet" type="text/css" href="/css/main.css">
+	    <link rel="alternate" type="application/atom+xml" title="<%= title %> - feed" href="/index.xml" />
+	    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8"/> 
+	    <title><%= title %></title>
+	  </head>
+	  <body>
+	    <section>
+	      <%= yield %> 
+	    </section>
+	    <footer>
+	      powered by <a href="http://cloudhead.io/toto">toto</a>
+	    </footer>
+	  </body>
+	</html>
+	
+- - -
+	
+**Inline code**
+
+Duis lacus lacus, pulvinar `$ sudo gem install todo` in faucibus et, tempus in nisl. Vivamus ut volutpat risus. Duis consequat tristique risus id auctor. Sed hendrerit tincidunt nulla, dignissim congue massa vulputate eu. Morbi luctus facilisis congue.
+
+- - -
+
+**Links and emphasis**
+
+Duis lacus lacus, [pulvinar in faucibus](http://example.com "this is an exanple link") et, tempus in nisl. **Vivamus ut volutpat risus**. Duis consequat tristique risus id auctor. Sed hendrerit tincidunt nulla, [dignissim congue massa vulputate eu. Morbi luctus facilisis congue](http://example.com "this is an exanple link"). Aliquam erat volutpat. Class aptent taciti sociosqu _ad litora torquent per conubia nostra, per inceptos himenaeos_.
+
+- - -
+
+**Image**
+
+![The Wonderful Wizard of Oz Book Cover](http://upload.wikimedia.org/wikipedia/commons/d/d2/Wizard_title_page.jpg)
+
+
+Aliquam erat volutpat. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Etiam tincidunt fermentum enim id posuere. Quisque varius ullamcorper quam. Proin hendrerit luctus feugiat. Cras nec libero lorem, id cursus eros. Donec neque dolor, mattis ac bibendum ut, viverra blandit magna. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Sed at augue neque, vitae eleifend nisi.
